@@ -8,3 +8,5 @@ FinalTreetest.py
 LOGIC1檔案  
 LOGIC2檔案  
 LOGIC3檔案  
+
+心智圖
