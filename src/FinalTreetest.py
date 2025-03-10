@@ -15,7 +15,7 @@ logging.basicConfig(
 
 # 瀏覽器
 def get_driver():
-    driver_path = r"C:\\Users\\GTW_User\\Downloads\\chromedriver-win64\\chromedriver.exe"
+    driver_path = 
     options = webdriver.ChromeOptions()
     options.add_argument("--window-size=375,990")
     options.add_argument("--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_0 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/10.0 Mobile/14A456 Safari/602.1")
